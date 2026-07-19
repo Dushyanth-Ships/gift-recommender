@@ -1,5 +1,7 @@
 # AI Gift Recommendation System
 
+**[Download PRD (PDF)](Dushyanth_Gift_Recommendation_PRD.pdf)**
+
 **An AI-powered gifting engine for a fast-fashion retail app targeting teenage users.**
 
 A fast-fashion retailer hit 10x growth in three years by capturing the U.S. teenage self-purchase market — then ran into a ceiling. The core demographic was saturated. The next growth lever was already sitting in the data: customers were discussing style preferences with 2-3 close friends and family inside the app. This PRD defines an MVP that monetizes that existing social behavior by turning self-purchasers into gifters.
